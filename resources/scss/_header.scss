@@ -1,8 +1,22 @@
 header{
-    display: flex;
-    justify-content: space-between;
-    figure{
-        text-align: center;
+    margin: 0 auto;
+    .addictional{
+       display: flex;
+       justify-content: end;
+       background-color: $primary;
+       padding: 0;
+       color: white;
+       height: 40px;
+    }
+
+    .navbar{
+
+        display: flex;
+        justify-content: space-around;
+        figure{
+            text-align: center;
+            padding-top: 5px;
+        }
     }
 
     ul{

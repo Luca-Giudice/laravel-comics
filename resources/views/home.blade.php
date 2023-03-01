@@ -11,6 +11,17 @@
 
 <body>
     <header>
+    <div class="addictional">
+     <ul>
+     <li>
+        DC POWER VISA
+     </li>
+     <li>
+        ADDITIONAL DC SITES
+     </li>
+     </ul>
+    </div>
+    <div class="navbar container">
         <figure>
             <img src="{{asset('images/dc-logo.png')}}" alt="">
         </figure>
@@ -49,7 +60,11 @@
                 
             </li>
         </ul>
+</div>
     </header>
+    <main>
+    di
+    </main>
 </body>
 
 </html>
