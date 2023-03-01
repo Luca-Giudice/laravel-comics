@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    figure{
+        text-align: center;
+    }
+
+    ul{
+        display: flex;
+        align-items: center;
+        padding: 0;
+        margin: 50px 0;
+        li{
+            list-style: none;
+            font-weight: bold;
+            a{
+                padding: 10px;
+            }
+        }
+    }
+}
