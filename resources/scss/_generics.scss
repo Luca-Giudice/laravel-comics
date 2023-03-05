@@ -4,21 +4,19 @@
     box-sizing: border-box;
 }
 
-// generics
-
 body{
     font-family: $main-font;
     min-height: 100vh;
-   
 }
-
-img {
+img{
     max-width: 100%;
     height: auto;
 }
 
-
-a{
-
-    text-decoration: none;
+.text-center{
+    text-align: center;
+}
+.my-4{
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
